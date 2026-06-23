@@ -28,5 +28,5 @@ Operazione di invio delle modifiche della repository locale
 ### git clone <indirizzo repository>
 Clono in locale una repository remota
 
-###git pull
+### git pull
 Aggiorno la repository locale con le modifiche presenti su quella remota
