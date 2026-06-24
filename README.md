@@ -32,3 +32,5 @@ Clono in locale una repository remota
 Aggiorno la repository locale con le modifiche presenti su quella remota
 
 ### ore 14:44 
+
+### ore 00:09
