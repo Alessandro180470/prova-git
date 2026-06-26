@@ -36,3 +36,5 @@ Aggiorno la repository locale con le modifiche presenti su quella remota
 ### ore 00:09
 
 ### ore 23:52 vedere lezione node.js
+
+### ore 11:36
